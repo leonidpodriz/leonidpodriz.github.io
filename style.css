@@ -77,10 +77,10 @@ footer {
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
-  text-align: center;
-  color: #3D3D3D; }
-  .contacts span {
-    margin-bottom: 12px; }
+  text-align: center; }
+  .contacts a, .contacts span {
+    margin-bottom: 12px;
+    color: #3D3D3D; }
 
 .technologies {
   display: flex;

@@ -107,7 +107,8 @@ footer {
     height: 180px;
     background: #C4C4C4;
     border-radius: 10px 10px 0 0;
-    object-fit: cover; }
+    object-fit: cover;
+    border: 1px solid #ccc; }
   .works h3 {
     margin: 15px 0 20px; }
 
